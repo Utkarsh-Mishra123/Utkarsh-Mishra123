@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-mishra123&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-mishra123" /> </p>
 
-- 🌱 I’m currently learning **Full stack web developer**
+- 🌱 I’m currently learning **Full stack developer**
 
 - 📫 How to reach me **utkarshm080@gmail.com**
 
